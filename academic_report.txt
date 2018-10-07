@@ -1,0 +1,1487 @@
+Page 1 of 9
+
+Academic Requirements
+Marshall Malino, 976615875
+Processed on 10/06/2018
+Career / Program (Gen Ed) / Major / Option
+Undergraduate Career
+Science Program
+Data Sciences (BS) Major
+Stat Mdlng Dt Scn Option
+Campus: University Park
+Advisor: Holt,Katherine
+Advisor: Thurman-Irons,Rebecca
+
+Requirement Term
+Fall 2016
+Fall 2016
+Spring 2018
+Spring 2018
+
+Academic Level: 5th Sem
+
+Cumulative GPA: 3.210
+
+******************************DEGREE AUDIT NOTES******************************
+**TUTORIAL: To familiarize yourself with the new degree audit functionality, please review the "Interpreting a Degree
+Audit" tutorial, found on the student Help page: http://lionpathsupport.psu.edu/help/undergraduateparent/, as well as in the
+LionPATH Online Library for Faculty & Staff.**
+**NOTE: A considerable portion of course substitutions and exceptions that were entered in the former audit system will
+need to be re-entered into LionPATH. Staff entering college exceptions are actively working through student audits to
+review and re-apply, where applicable, substitutions and exceptions that were previously approved.**
+**HAVE QUESTIONS/FOUND AN ISSUE? The following reporting lines of communication should be followed:
+-if a student has a question, they should communicate with their academic advisor;
+-if an academic advisor or other faculty/staff member has a question, they should communicate with their college's degree
+audit contact. This contact is often a campus registrar or college records coordinator, and is the person in the college that
+has been coordinating the audit validation process with LionPATH; and
+-the college degree audit contact should address the question/report the issue to their designated contact in the Office of
+the University Registrar who will work towards a resolution.**
+
+This report is an unofficial working copy of a student's progress.
+Graduation certification of degree requirements is subject to the approval of the student's college dean. Questions about
+the report should be directed to the student's academic adviser or college dean.
+
+Eberly College of Science Majors
+This report includes requirements for the following majors:
+Data Science Major, Statistical Modeling Data Sciences Option (DTSCS_BS-SMDDS)
+Data Science Major, Statistical Modeling Data Sciences Option (DTSCS_BS-SMDDS)
+
+Entrance Requirements for the Eberly College of Science
+Courses enrolled in a future term will not display in this entrance requirements section until the start of the future term.
+
+29.1 units minimum
+Satisfied
+· Units: 29.10 required, 72.00 used
+2.0 cumulative GPA minimum
+Satisfied
+· GPA: 2.000 required, 3.210 completed
+
+MATH 140-C or higher required
+Satisfied
+
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress, WH = What-If
+GPA rounds to 2 digits – the final zero is a place holder
+
+10/06/2018
+
+Marshall Malino, 976615875
+
+· Units: 4.00 required, 4.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+MATH
+140
+
+Course Title
+Calc Anly Geom I
+
+Page 2 of 9
+
+Grade
+B
+
+Units
+4.00
+
+Type
+EN
+
+High School Science Courses or Substitution
+Complete 3 high school science courses, or complete an approved substitution. Courses with the Natural Science
+(GN) attribute fulfill this substitution.
+Satisfied:
+
+Additional Entrance Requirements for DTSCS_BS
+MATH 141- C or higher required
+Satisfied
+· Units: 4.00 required, 4.00 used
+Term
+Subject
+Catalog Nbr
+SP 2017
+MATH
+141
+
+Course Title
+Calc Anly Geom II
+
+Grade
+C+
+
+Units
+4.00
+
+Type
+EN
+
+Course Title
+Intro Prgmg Tech
+
+Grade
+B
+
+Units
+3.00
+
+Type
+EN
+
+Course Title
+Intermed Progrmg
+
+Grade
+C+
+
+Units
+3.00
+
+Type
+EN
+
+Course Title
+Elem Statistics
+
+Grade
+B
+
+Units
+4.00
+
+Type
+EN
+
+Course Title
+Org Data
+
+Grade
+B-
+
+Units
+3.00
+
+Type
+EN
+
+Grade
+
+Units
+3.00
+3.00
+3.00
+3.00
+3.00
+
+Type
+IP
+IP
+IP
+IP
+IP
+
+CMPSC 121- C or higher required
+Satisfied
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+CMPSC
+121
+CMPSC 122- C or higher required
+Satisfied .
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+SP 2017
+CMPSC
+122
+STAT 200- C or higher required
+Satisfied .
+· Units: 4.00 required, 4.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+STAT
+200
+IST 210- C or higher required
+Satisfied .
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+SP 2017
+IST
+210
+
+In Progress Courses
+Degrees are not complete until all requirements are satisfied.
+
+In Progress Courses
+In Progress Courses
+Term
+Subject
+FA 2018
+COMM
+FA 2018
+DS
+FA 2018
+DS
+FA 2018
+EARTH
+FA 2018
+MATH
+
+Catalog Nbr
+100
+310
+330
+100
+415
+
+Course Title
+Mass Media and Soc
+Mach Learn&Data An
+Visual Analytics
+Environment Earth
+Intro Math Stat
+
+Withdrawn, Unsatisfactory, Repeated, & Excluded Academic Renewal Courses
+
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress
+GPA rounds to 2 digits – the final zero is a place holder
+
+10/06/2018
+
+Marshall Malino, 976615875
+
+Withdrawn and Unsatisfactorily Completed Courses
+Term
+Subject
+Catalog Nbr
+Course Title
+SP 2017
+MATH
+220
+Matrices
+
+Page 3 of 9
+
+Grade
+LD
+
+Units
+2.00
+
+Type
+EN
+
+World Language Admission Requirement
+NOTE: Additional Language Proficiency Required by some Majors
+
+Admissions Foreign Language Satisfied
+Satisfied No additional foreign language required to satisfy admissions requirements. Additional foreign language
+may be required by the major.
+
+First-Year Seminar
+First-Year Seminar
+
+First-Year Seminar Course
+Satisfied Complete 1 unit minimum in First-Year Seminar
+· Units: 1.00 required, 1.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+EE
+9
+
+Course Title
+E E 1st-Yr Smnr
+
+Grade
+B+
+
+Units
+1.00
+
+Type
+EN
+
+Writing Across the Curriculum
+Students are required to complete 3 units of writing-intensive coursework offered within their major(s) or college(s) of
+enrollment
+
+Writing Across the Curriculum - College of Science
+Satisfied Courses with the Writing Across the Curriculum attribute offered by the college satisfy this requirement
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+FA 2017
+MATH
+311W
+
+Course Title
+Discrete Math
+
+Grade
+B+
+
+Units
+3.00
+
+Type
+EN
+
+Grade
+B
+
+Units
+3.00
+
+Type
+EN
+
+United States and International Cultures (US/IL)
+Courses with US or IL attributes satisfy these requirements
+
+United States and International Cultures (US/IL)
+Courses with US and/or IL attributes satisfy these requirements
+United States Cultures (US)
+Satisfied Complete 3 US units
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+ENGL
+15A
+
+Course Title
+Rhetoric and Comp
+
+International Cultures (IL)
+Not Satisfied Complete 3 IL units
+· Units: 3.00 required, 0.00 used, 3.00 needed
+
+Minimum 2.00 Cumulative Grade Point Average Required for Graduation
+Senate Policy 82-40
+
+Cumulative Grade Point Average
+Satisfied Minimum 2.0 Required
+· GPA: 2.000 required, 3.210 completed
+
+Residency Requirements
+Senate Policy 83-80
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress
+GPA rounds to 2 digits – the final zero is a place holder
+
+10/06/2018
+
+Marshall Malino, 976615875
+
+Page 4 of 9
+
+At least 36 of the last 60 units must be earned at Penn State
+Satisfied Senate Policy 83-80.1
+· Units: 36.00 required, 36.00 used
+At least 60 units must be earned in the last five years
+Satisfied Senate Policy 83-80.2
+· Units: 60.00 required, 87.00 used
+
+General Education- Data Sciences Major (DTSCS_BS)
+45 units required
+
+Writing/Speaking (GWS)
+Complete 9 units with 3 units in each area: Composition, Speech and Effective Writing
+ENGL 15 (or equivalent)
+Satisfied Complete a 3 unit composition course
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+ENGL
+15A
+
+Course Title
+Rhetoric and Comp
+
+Grade
+B
+
+Units
+3.00
+
+Type
+EN
+
+Course Title
+Effective Speech
+
+Grade
+B
+
+Units
+3.00
+
+Type
+EN
+
+Course Title
+Technical Writing
+
+Grade
+B-
+
+Units
+3.00
+
+Type
+EN
+
+Course Title
+Calc Anly Geom I
+
+Grade
+B
+
+Units
+4.00
+
+Type
+EN
+
+Course Title
+Calc Anly Geom II
+
+Grade
+C+
+
+Units
+4.00
+
+Type
+EN
+
+Grade
+AA
+
+Units
+3.00
+3.00
+
+Type
+EN
+EN
+
+CAS 100 (or equivalent)
+Satisfied Complete a 3 unit speech course
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+SP 2017
+CAS
+100A
+
+ENGL 202C
+Satisfied Complete a 3 unit effective writing course
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+SP 2018
+ENGL
+202C
+
+Quantification (GQ)
+Complete 6 GQ units, as shown below.
+**Units also apply to major requirements.**
+MATH 140
+Satisfied Complete 4 units
+· Units: 4.00 required, 4.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+MATH
+140
+MATH 141
+Satisfied Complete 4 units
+· Units: 4.00 required, 4.00 used
+Term
+Subject
+Catalog Nbr
+SP 2017
+MATH
+141
+
+Natural Sciences (GN)
+Courses with the GN attribute fulfill this requirement
+Natural Sciences (GN)
+Satisfied Complete 9 GN units
+· Units: 9.00 required, 9.00 used
+Term
+Subject
+Catalog Nbr
+FA 2017
+ASTRO
+1
+SU 2018
+GEOSC
+10
+
+Course Title
+Astro Universe
+National Park Geol
+
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress
+GPA rounds to 2 digits – the final zero is a place holder
+
+10/06/2018
+
+Term
+SU 2018
+
+Marshall Malino, 976615875
+
+Subject
+EGEE
+
+Catalog Nbr
+102
+
+Course Title
+Environ Protection
+
+Page 5 of 9
+
+Grade
+A
+
+Units
+3.00
+
+Type
+EN
+
+Grade
+A
+
+Units
+3.00
+
+Type
+EN
+
+Grade
+TR
+
+Units
+3.00
+3.00
+
+Type
+TE
+IP
+
+Grade
+B
+B
+B
+C+
+BC+
+A
+B
+B+
+
+Units
+3.00
+4.00
+4.00
+3.00
+3.00
+4.00
+2.00
+3.00
+3.00
+
+Type
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+
+Arts (GA)
+Courses with the GA attribute fulfill this requirement
+Arts (GA)
+Not Satisfied Complete 6 GA units
+· Units: 6.00 required, 3.00 used, 3.00 needed
+Term
+Subject
+Catalog Nbr
+Course Title
+SU 2018
+AA
+121
+Dsgn Thnkng/Crtvty
+
+Humanities (GH)
+Courses with the GH attribute fulfill this requirement
+Humanities (GH)
+Not Satisfied Complete 6 GH units
+· Units: 6.00 required, 0.00 used, 6.00 needed
+
+Social and Behavioral Sciences (GS)
+Courses with a GS attribute fulfill this requirement
+Social and Behavioral Sciences(GS)
+Satisfied Complete 6 GS units
+· Units: 6.00 required, 6.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+PLSC
+1
+FA 2018
+COMM
+100
+
+Course Title
+Intr to Am Nat Gov
+Mass Media and Soc
+
+Health and Physical Activity (GHA)
+Courses with the GHA attribute fulfill this requirement
+Health and Physical Activity (GHA)
+Not Satisfied Complete 3 GHA units
+· Units: 3.00 required, 0.00 used, 3.00 needed
+
+Data Sciences, BS (DTSCS_BS) Major
+50 units required
+
+Prescribed Courses
+41 units required
+Prescribed Courses-C or higher
+Not Satisfied Complete the following
+· Units: 35.00 required, 29.00 used, 6.00 needed
+Term
+Subject
+Catalog Nbr
+Course Title
+FA 2016
+CMPSC
+121
+Intro Prgmg Tech
+FA 2016
+MATH
+140
+Calc Anly Geom I
+FA 2016
+STAT
+200
+Elem Statistics
+SP 2017
+CMPSC
+122
+Intermed Progrmg
+SP 2017
+IST
+210
+Org Data
+SP 2017
+MATH
+141
+Calc Anly Geom II
+FA 2017
+MATH
+220
+Matrices
+SP 2018
+DS
+220
+Data Mgmt-Data Sci
+SP 2018
+STAT
+380
+Stat Data Science
+Course List: DS 300, DS 440
+
+Prescribed Courses
+Satisfied Complete the following
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress
+GPA rounds to 2 digits – the final zero is a place holder
+
+10/06/2018
+
+Marshall Malino, 976615875
+
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+SP 2018
+ENGL
+202C
+
+Course Title
+Technical Writing
+
+Page 6 of 9
+
+Grade
+B-
+
+Units
+3.00
+
+Type
+EN
+
+DS 340-Writing-C or higher required
+Not Satisfied Complete this course with the writing attribute to meet university writing and major requirements.
+· Units: 3.00 required, 0.00 used, 3.00 needed
+Course List: DS 340W
+
+Additional Courses
+9 units required
+Composition and Speech
+Satisfied Complete 6 units as shown below.
+**ENGL 137 and CAS 137 are cross listed. Only complete one course.**
+**ENGL 138 and CAS 138 are cross listed. Only complete one course.**
+· Units: 6.00 required, 6.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+ENGL
+15A
+SP 2017
+CAS
+100A
+
+Course Title
+Rhetoric and Comp
+Effective Speech
+
+Grade
+B
+B
+
+Units
+3.00
+3.00
+
+Type
+EN
+EN
+
+Grade
+B+
+
+Units
+3.00
+
+Type
+EN
+
+Grade
+BA-
+
+Units
+4.00
+3.00
+
+Type
+EN
+EN
+
+A-
+
+3.00
+
+EN
+
+Statistics - C or higher
+Satisfied Complete 3 units
+**MATH 318 and STAT 318 are cross listed. Only complete one course.**
+**MATH 414 and STAT 414 are cross listed. Only complete one course.**
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+SP 2018
+STAT
+414
+
+Course Title
+Intro Prob Theory
+
+Statistical Modeling Data Sciences Option - DTSCS_BS-SMDDS
+27 units required
+
+Prescribed Courses
+11 units required
+Prescribed Courses
+Not Satisfied Complete the following
+· Units: 11.00 required, 10.00 used, 1.00 needed
+Term
+Subject
+Catalog Nbr
+Course Title
+FA 2017
+MATH
+230
+Calc/Vector Anly
+FA 2017
+STAT
+297
+Special Topics
+(Statistics Programming
+Methods)
+SP 2018
+STAT
+462
+Applied Regr Anly
+Course List: STAT 440
+
+Additional Courses
+4 units required
+MATH 311 or CMPSC 360 - C or higher required
+Satisfied Complete 3 units
+**If completing MATH 311 select the course with the writing attribute to meet university writing and option
+requirements.**
+
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress
+GPA rounds to 2 digits – the final zero is a place holder
+
+10/06/2018
+
+Marshall Malino, 976615875
+
+· Units: 3.00 required, 3.00 used
+Term
+Subject
+Catalog Nbr
+FA 2017
+MATH
+311W
+
+Course Title
+Discrete Math
+
+Page 7 of 9
+
+Grade
+B+
+
+Units
+3.00
+
+Type
+EN
+
+Units
+1.00
+
+Type
+EN
+
+First Year Seminar
+Satisfied Complete 1 unit with the first year seminar attribute to meet university requirements
+· Units: 1.00 required, 1.00 used
+Term
+Subject
+Catalog Nbr
+FA 2016
+EE
+9
+
+Course Title
+E E 1st-Yr Smnr
+
+Grade
+B+
+
+Supporting Courses and Related Areas
+12 units required
+List A
+Not Satisfied Complete 6 units
+**CMPSC 451 and MATH 451 are cross listed. Only complete one course.**
+**CMPSC 455 and MATH 455 are cross listed. Only complete one course.**
+**MATH 416 and STAT 416 are cross listed. Only complete one course.**
+**Only 1 course between MATH 436 and MATH 441 may be used to fulfill this requirement**
+**Only 1 course between CMPSC/MATH 451 and CMPSC/MATH 455 may be used to fulfill this requirement**
+· Units: 6.00 required, 0.00 used, 6.00 needed
+Course List: CMPSC 451, CMPSC 455, MATH 416, MATH 435, MATH 436, MATH 441, MATH 451, MATH
+455, MATH 484, STAT 416, STAT 461, STAT 463, STAT 466, STAT 483
+
+List B
+Satisfied Complete 6 units
+· Units: 6.00 required, 6.00 used
+Term
+Subject
+Catalog Nbr
+FA 2018
+DS
+310
+FA 2018
+DS
+330
+
+Course Title
+Mach Learn&Data An
+Visual Analytics
+
+Grade
+
+Units
+3.00
+3.00
+
+Type
+IP
+IP
+
+Data Sciences Major, Applied Data Sci Opt (DTSCS_BS-SMDDS) Electives & Total
+125 units are required for the degree: General Education, Data Sciences Major, Statistical Modeling Data Sci Opt, 107
+units required; Electives, 18 units required.
+· Units: 125.00 required, 87.00 used, 38.00 needed
+
+Data Sciences Maj, Stat Modeling Data Sci Opt (DTSCS_BS-SMDDS) Electives
+Complete 18 units
+· Units: 18.00 required, 8.00 used, 10.00 needed
+Term
+Subject
+Catalog Nbr
+Course Title
+SU 2017
+IST
+495
+Internship
+SP 2018
+IST
+390
+Profdev
+FA 2018
+EARTH
+100
+Environment Earth
+FA 2018
+MATH
+415
+Intro Math Stat
+
+Grade
+A
+A
+
+Units
+1.00
+1.00
+3.00
+3.00
+
+Type
+EN
+EN
+IP
+IP
+
+Data Sciences Maj, Statistical Modeling Data Sciences Opt (DTSCS_BS-SMDDS) Total
+107 units required for General Education, Data Sciences Major and Statistical Modeling Data Sciences Option
+· Units: 107.00 required, 79.00 used, 28.00 needed
+
+Courses not used to satisfy degree requirements in DTSCS_BS-SMDDS
+(Courses not used in total units required for the degree)
+
+Total Units Earned
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress
+GPA rounds to 2 digits – the final zero is a place holder
+
+10/06/2018
+
+Marshall Malino, 976615875
+
+Page 8 of 9
+
+Total Units Earned
+· Units: 87.00 used
+Term
+Subject
+FA 2016
+PLSC
+FA 2016
+CMPSC
+FA 2016
+EE
+FA 2016
+ENGL
+FA 2016
+MATH
+FA 2016
+STAT
+SP 2017
+CAS
+SP 2017
+CMPSC
+SP 2017
+IST
+SP 2017
+MATH
+SU 2017
+IST
+FA 2017
+ASTRO
+FA 2017
+MATH
+FA 2017
+MATH
+FA 2017
+MATH
+FA 2017
+STAT
+
+Catalog Nbr
+1
+121
+9
+15A
+140
+200
+100A
+122
+210
+141
+495
+1
+220
+230
+311W
+297
+
+SP 2018
+SP 2018
+SP 2018
+SP 2018
+SP 2018
+SP 2018
+SU 2018
+SU 2018
+SU 2018
+FA 2018
+FA 2018
+FA 2018
+FA 2018
+FA 2018
+
+220
+202C
+390
+380
+414
+462
+121
+10
+102
+100
+310
+330
+100
+415
+
+DS
+ENGL
+IST
+STAT
+STAT
+STAT
+AA
+GEOSC
+EGEE
+COMM
+DS
+DS
+EARTH
+MATH
+
+Course Title
+Intr to Am Nat Gov
+Intro Prgmg Tech
+E E 1st-Yr Smnr
+Rhetoric and Comp
+Calc Anly Geom I
+Elem Statistics
+Effective Speech
+Intermed Progrmg
+Org Data
+Calc Anly Geom II
+Internship
+Astro Universe
+Matrices
+Calc/Vector Anly
+Discrete Math
+Special Topics
+(Statistics Programming
+Methods)
+Data Mgmt-Data Sci
+Technical Writing
+Profdev
+Stat Data Science
+Intro Prob Theory
+Applied Regr Anly
+Dsgn Thnkng/Crtvty
+National Park Geol
+Environ Protection
+Mass Media and Soc
+Mach Learn&Data An
+Visual Analytics
+Environment Earth
+Intro Math Stat
+
+Grade
+TR
+B
+B+
+B
+B
+B
+B
+C+
+BC+
+A
+AA
+BB+
+A-
+
+Units
+3.00
+3.00
+1.00
+3.00
+4.00
+4.00
+3.00
+3.00
+3.00
+4.00
+1.00
+3.00
+2.00
+4.00
+3.00
+3.00
+
+Type
+TE
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+
+B
+BA
+B+
+B+
+AA
+A
+A
+
+3.00
+3.00
+1.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+IP
+IP
+IP
+IP
+IP
+
+Grade
+TR
+B
+B+
+B
+B
+B
+B
+C+
+BC+
+LD
+A
+AA
+BB+
+A-
+
+Units
+3.00
+3.00
+1.00
+3.00
+4.00
+4.00
+3.00
+3.00
+3.00
+4.00
+2.00
+1.00
+3.00
+2.00
+4.00
+3.00
+3.00
+
+Type
+TE
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+
+B
+B-
+
+3.00
+3.00
+
+EN
+EN
+
+Course History
+Term
+Subject
+Catalog Nbr
+Title
+FA 2016
+PLSC
+1
+Intr to Am Nat Gov
+FA 2016
+CMPSC
+121
+Intro Prgmg Tech
+FA 2016
+EE
+9
+E E 1st-Yr Smnr
+FA 2016
+ENGL
+15A
+Rhetoric and Comp
+FA 2016
+MATH
+140
+Calc Anly Geom I
+FA 2016
+STAT
+200
+Elem Statistics
+SP 2017
+CAS
+100A
+Effective Speech
+SP 2017
+CMPSC
+122
+Intermed Progrmg
+SP 2017
+IST
+210
+Org Data
+SP 2017
+MATH
+141
+Calc Anly Geom II
+SP 2017
+MATH
+220
+Matrices
+SU 2017
+IST
+495
+Internship
+FA 2017
+ASTRO
+1
+Astro Universe
+FA 2017
+MATH
+220
+Matrices
+FA 2017
+MATH
+230
+Calc/Vector Anly
+FA 2017
+MATH
+311W
+Discrete Math
+FA 2017
+STAT
+297
+Special Topics
+Course Topic: 2 - Statistics Programming Methods
+STAT 297 replaces STAT 184 Introduction to R.
+Per CSRS
+Entered by: JSB44
+SP 2018
+DS
+220
+Data Mgmt-Data Sci
+SP 2018
+ENGL
+202C
+Technical Writing
+
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress
+GPA rounds to 2 digits – the final zero is a place holder
+
+10/06/2018
+
+SP 2018
+SP 2018
+SP 2018
+SP 2018
+SU 2018
+SU 2018
+SU 2018
+FA 2018
+FA 2018
+FA 2018
+FA 2018
+FA 2018
+
+Marshall Malino, 976615875
+
+IST
+STAT
+STAT
+STAT
+AA
+GEOSC
+EGEE
+COMM
+DS
+DS
+EARTH
+MATH
+
+390
+380
+414
+462
+121
+10
+102
+100
+310
+330
+100
+415
+
+Profdev
+Stat Data Science
+Intro Prob Theory
+Applied Regr Anly
+Dsgn Thnkng/Crtvty
+National Park Geol
+Environ Protection
+Mass Media and Soc
+Mach Learn&Data An
+Visual Analytics
+Environment Earth
+Intro Math Stat
+
+Page 9 of 9
+
+A
+B+
+B+
+AA
+A
+A
+
+EN = Enrollment, TR = Transfer Course, TE = Test Credit, IP = In-Progress
+GPA rounds to 2 digits – the final zero is a place holder
+
+1.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+
+EN
+EN
+EN
+EN
+EN
+EN
+EN
+IP
+IP
+IP
+IP
+IP
+
+
