@@ -3,9 +3,7 @@ file = open('academic_report.txt',mode='r')
 yeet = file.read()
 file.close()
 
-getting total credits needed
-total = re.search(r\"(?:[a-zA-Z'-]+[^a-zA-Z'-]+){0,10}units are required for the degree(?:[a-zA-Z'-]+[^a-zA-Z'-]+){0,10}\",yeet)
-GAs = re.findall(r'Not Satisfied Complete(.*?)GA',yee
+GAs = re.findall(r'Not Satisfied Complete(.*?)GA',yeet)
 if not GAs:
     GAs = 'Satisfied'
 else:
@@ -49,3 +47,7 @@ else:
                  
 liss = (GNs,GAs,GHs,GSs,GHAs,USs)
 print(liss)
+
+#getting the total number of credits needed for the major, how many you've taken, and how many you still need
+total = re.findall(' Units:(.*?)required,(.*?)used,(.*?)needed',yeet)
+max(total,key=itemgetter(1))
