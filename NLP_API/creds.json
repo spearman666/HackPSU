@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hackpsu-218701",
+  "private_key_id": "c05f5b0d6a1383e755a17bc3c882768ec5b89b05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyKEwWIyn0csIb\nuXop/EeKbcz3Mx+/pk1idQFqZ8zLWEpWw+NfEWfNMw1YY9SaOjo8liyiTaFncjt+\nap+f3+3cBrCXgbLtS2oM9Smg1dBPWyiVTCQmgijv2AeIoLTrVG6Ay/zx4AJOfTMZ\nuPx6TXzRYyxiCFHNcVwiRBvpTH7eD6yeYgJHXNufrKXFQQ9EyA4tGltYDkIhX6XK\ndlc0JxqH/us5m6enTjCJXrgCc8JKGYCguprY5SWBp8WqNRCwxbbF9NOi5NoDF++N\nVVRMuY8yj5k/yT3DHrFRWdyr10fX/wWRls8ZbJW3aBYp4+hLPSHPjA2gxiA/H/oS\naA9vW1pdAgMBAAECggEAUlwwuHcvGRPISnrXT/uRsxwJiin3PmkKEz8WFXPBCCxb\nyXqrbTKlswYr4DXefiH29DVUkv+iYyk6+bke7BDgbDwnfRL3fZ3EfBMGWJUfxN/W\nhhZ6C9dWR3KuIOpyWOxiXWZwG/07878LVZPgHEYgMshPJ07DSl9igXDNGnBDojID\n0T+bQ8VOqxyMdrT9FA8BhQBmMjwM4Kb3cu7HopwsFhypYZYZu+BuOHm9U2RfcoKQ\ndGFphpT53s1DnnOJqFUUnRXrcXBmtITqLJaZsPUbWYEGk75dMCL4MWQ+ii+nQ0hk\n2KNz+nbxCcXqMpciFHWdWadjG0naGblUGWNF7JV/3QKBgQDyA1reKY52vIZQpUyD\n1wSKt+rk90sXSH3wDlQw+IMSfbDIMQFkSdFqb7CAQ1zqvBR761cMg0mg2B1XHcDk\nVx5Z+9QGS6HFhXbIfG5WiLQaBKQL49EQJwu8yOUpv2vQDKf95sQ/GPSL4NA7FqNv\nHi4rje6mPWL43QzAx5nmHFnSwwKBgQC8dC5eXYdlaoUvDGPycmbiGkJSB9GmMJC6\nMFCIhlq9zrHhlIzzwsw1XdPatLUFetJjYRZpRAT7uoYCU9kakJIJMgmt569wAomq\nQo32i4L1UEpOZOjig1t+MTNkVFLq9shdS8t8IyfQGp85YLlkHUkUmMrde9UlLEFk\n9ECInvcMXwKBgHXhcHdaIoxvU7Ugbt6g8xNmdkHEuozCwKUXNacMxTtSgbNhO15Q\nHnMLqBsxtKaZqhiaDzKHGGwCGHiAg541WRFXenT+jfOaCLuq8EuyFpe9vvITq5eE\njVENQaJOHQOfxowDxX8+do9Tl9nQMxdCyhZo8d+Dcxvo//c+whW1pYLlAoGAelM/\ntekn9eCKyttUFQ/FUIaS/gQtRZ7IktLBs5ziUcpVFIQEakXLn+hjl9csmX38Cp3+\nmh2Yzn1odyJODjxBTs64EbYN3rsG+QlydNJiEzImyXQe5sk1Hlh5b2p82B+QN173\nmoCHW0GskOYD8MRBp6j2JYY3+IUdfZY+PXBSFCkCgYEApY6wtjxX+4SLLipdS9NC\nk0kXBfVireE6uWjzzZHahPt+pd7TNW/G0u2t0cr89R85Fc/+5kuihMdosO+D9hhO\nnSS8XT/82FE7aoog4dACod2czxqMVAQWeqR35qQ22cY4QSPdvLfpc/g6h6I3KH8U\n5p2Hum/s8TLz89Lk2ErIZ9k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackpsu@hackpsu-218701.iam.gserviceaccount.com",
+  "client_id": "116933508979714219269",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackpsu%40hackpsu-218701.iam.gserviceaccount.com"
+}
