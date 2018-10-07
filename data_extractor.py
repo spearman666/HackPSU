@@ -1,4 +1,4 @@
-import re\n
+import re
 file = open('academic_report.txt',mode='r')
 yeet = file.read()
 file.close()
