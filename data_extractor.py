@@ -4,7 +4,7 @@ yeet = file.read()
 file.close()
 
 getting total credits needed
-total = re.search(r\"(?:[a-zA-Z'-]+[^a-zA-Z'-]+){0,10}units are required for the degree(?:[a-zA-Z'-]+[^a-zA-Z'-]+){0,10}\",yeet)\n",
+total = re.search(r\"(?:[a-zA-Z'-]+[^a-zA-Z'-]+){0,10}units are required for the degree(?:[a-zA-Z'-]+[^a-zA-Z'-]+){0,10}\",yeet)
 GAs = re.findall(r'Not Satisfied Complete(.*?)GA',yee
 if not GAs:
     GAs = 'Satisfied'
