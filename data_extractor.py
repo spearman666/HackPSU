@@ -34,7 +34,7 @@ else:
     GHAs = GHAs[0]    
     
 USs = re.findall(r'Not Satisfied Complete(.*?)US',yeet)
-if not USs:\n",
+if not USs:
     USs = 'Satisfied'
 else:
     USs = USs[0]
