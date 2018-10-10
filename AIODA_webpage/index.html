@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIODA</title>
+    <!-- <link href='https://fonts.googleapis.com/css?family=Roboto:300,900' rel='stylesheet' type='text/css'>     Font used in the original codepen -->
+    <link href="https://fonts.googleapis.com/css?family=Caveat|Open+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.2.0/js/all.js" integrity="sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
+</head>
+<body>
+    <!-- // Intro -->
+    <header id= "about">
+        <nav>
+            <a href="#about">About</a>
+            <a href="#work">Test Me</a>
+            <!-- <a href="#education">Education</a> -->
+            <a href="#contact">Contact</a>
+        </nav>
+      <div class="content-wrap">
+        <div class="col-wide">
+          <h1>AIODA ChatBot</h1>
+          <h2>AIODA (AI On-Demand Advising)</h2>
+          <p>Your on-demand 24/7 advisor to answer all your questions!</p>
+        </div>
+      </div>
+    </header>
+
+    <main>
+        <!-- // Work Experience -->
+        <section id="work" class="work">
+          <div class="content-wrap">
+            <h2></h2>
+
+            <!-- Job 1 Details -->
+            <div class="col-narrow">
+              <h3>LionPath Advising</h3>
+              <p class="uppercase">Ask our online bot questions about your academics.</p>
+            </div>
+
+            <div class="col-wide job-description">
+              <ul>
+                <li>Use Case 1: Questions about graduation credits.
+                </li>
+                <li>Use Case 2: Questions about the general education classes you need?
+                </li>
+            </ul>
+            </div>
+
+            <iframe
+              allow="microphone;"
+              width="350"
+              height="430"
+              src="https://console.dialogflow.com/api-client/demo/embedded/a07f8731-d849-4c1e-9608-5cc40f7a1505">
+          </iframe>
+      
+    </main>
+
+
+    <!-- // Footer & contact info -->
+    <footer id="contact">
+      <div class="content-wrap">
+        <h2>For more information contact us here:</h2>
+
+        <!-- Social media links. Add or remove any networks. -->
+        <div class="contact-info">
+            <a class= "contactLink" href="mailto:nitya.govind@psu.edu"><span><i class="fas fa-envelope"></i></span></a>
+            <a class= "contactLink" href="https://nitya-govind.github.io/"><span><i class="fas fa-at"></i></span></a>
+            <a class= "contactLink" href="https://github.com/nitya-govind"><span><i class="fab fa-github"></i></span></a>
+            <a class= "contactLink" href="https://www.linkedin.com/in/nitya-govind/"><span><i class="fab fa-linkedin"></i></span></a>
+        </div>
+
+        <p>Copyright 2018 by Nitya Govind</p>
+      </div>
+    </footer>
+</body>
+</html>
